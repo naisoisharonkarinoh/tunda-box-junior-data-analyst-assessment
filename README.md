@@ -6,8 +6,7 @@ This repository contains my completed Junior Data Analyst assessment. The assess
 
 ## Assessment Document
 
-[View the original assessment document on Google Drive](https://docs.google.com/document/d/1II3H-_-L7MdxXfguxATazDgwMrItE0AbB6mEpkD_HLk/edit?usp=sharing)
-
+[View the completed Junior Data Analyst Assessment on Google Drive](https://docs.google.com/document/d/16JPZYd3hE99O3n7k2NwQlNIRME8a5mNaLY9cp85G7cs/edit?usp=sharing)
 ## Files in This Repository
 
 - `assessment.ipynb` – Jupyter Notebook containing the Python code, SQL queries, calculations, and written responses.
